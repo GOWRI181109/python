@@ -1,3 +1,3 @@
-b=int(input())
-s=list(map(int,input().split()))
-print(min(s))b=int(input())
+g=int(input())
+r=list(map(int,input().split()))
+print(min(g))r=int(input())
